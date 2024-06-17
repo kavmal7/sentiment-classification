@@ -1,2 +1,2 @@
 ## Sentiment classification
-This code file takes various mails, reviews, etc to classify the sentiment (positive, negative, etc) using the BERT model.
+This code file takes various mails, reviews, etc to classify the sentiment (positive, negative, etc) using the BERT model. The data was sourced from the following site: https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format?resource=download.
